@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Bacteriophage",
+  "universe": "VIR · The Bacteriophage (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Bacteriophage:VIR:828bc7⟧",
+  "carbon": "the-bacteriophage.carbon.tiff (TIFF)",
+  "silicon": "the-bacteriophage.silicon.png (PNG)",
+  "seal_sha256": "4a205ec9a176e7ae25ced4f0efa11e760db4cfb6c8c89e8ac188fc7d0eeaa6bd",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

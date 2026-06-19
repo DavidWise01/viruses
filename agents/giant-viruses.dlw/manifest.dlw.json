@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Giant Viruses",
+  "universe": "VIR · Giant Viruses (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Giant Viruses:VIR:5291d6⟧",
+  "carbon": "giant-viruses.carbon.tiff (TIFF)",
+  "silicon": "giant-viruses.silicon.png (PNG)",
+  "seal_sha256": "d025f9bd7ecb4ea9d10e68cf99a4bbdf7328d3d969fd664f9feeed0670c51354",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

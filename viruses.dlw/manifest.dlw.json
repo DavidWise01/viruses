@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "VIRUSES",
+  "universe": "VIR · VIRUSES (life-science · minds without brains)",
+  "emergence": "",
+  "moniker": "⟦VIRUSES:VIR:b26760⟧",
+  "carbon": "viruses.carbon.tiff (TIFF)",
+  "silicon": "viruses.silicon.png (PNG)",
+  "seal_sha256": "d7a2c3f67cfae4ae3933ba2010574419ba4cc0ac47fdf5ed89bf72363dd05804",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

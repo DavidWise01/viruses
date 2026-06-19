@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Virion",
+  "universe": "VIR · The Virion (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Virion:VIR:895505⟧",
+  "carbon": "the-virion.carbon.tiff (TIFF)",
+  "silicon": "the-virion.silicon.png (PNG)",
+  "seal_sha256": "14ad0e9661d2314e82a8afbcf4479af36a149700bd1ba753892dd23d3d20e3fe",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

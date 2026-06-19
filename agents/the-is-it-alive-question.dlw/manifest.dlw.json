@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The 'Is It Alive?' Question",
+  "universe": "VIR · The 'Is It Alive?' Question (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦The 'Is It Alive?' Question:VIR:f6c3b1⟧",
+  "carbon": "the-is-it-alive-question.carbon.tiff (TIFF)",
+  "silicon": "the-is-it-alive-question.silicon.png (PNG)",
+  "seal_sha256": "ac9e92a9c164f12dc537c50091633d6cd2dac06775582119f8da108040bd5d89",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

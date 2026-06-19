@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Viral Genome",
+  "universe": "VIR · The Viral Genome (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦The Viral Genome:VIR:e0372e⟧",
+  "carbon": "the-viral-genome.carbon.tiff (TIFF)",
+  "silicon": "the-viral-genome.silicon.png (PNG)",
+  "seal_sha256": "1cb4c356fafe2436295d52922a7de79192063f85095be4cb9494586cacc5e71a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

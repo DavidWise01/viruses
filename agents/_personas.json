@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "the-virion",
+    "name": "The Virion",
+    "epithet": "life in a dormant package · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Virion:VIR:895505⟧"
+  },
+  {
+    "slug": "the-capsid",
+    "name": "The Capsid",
+    "epithet": "the protein shell · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Capsid:VIR:bd2598⟧"
+  },
+  {
+    "slug": "the-viral-genome",
+    "name": "The Viral Genome",
+    "epithet": "the code, and only the code · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Viral Genome:VIR:e0372e⟧"
+  },
+  {
+    "slug": "the-hijack",
+    "name": "The Hijack",
+    "epithet": "borrowing the machinery of life · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Hijack:VIR:4c631f⟧"
+  },
+  {
+    "slug": "the-bacteriophage",
+    "name": "The Bacteriophage",
+    "epithet": "the most numerous thing on Earth · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Bacteriophage:VIR:828bc7⟧"
+  },
+  {
+    "slug": "the-is-it-alive-question",
+    "name": "The 'Is It Alive?' Question",
+    "epithet": "the line that won't hold · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The 'Is It Alive?' Question:VIR:f6c3b1⟧"
+  },
+  {
+    "slug": "giant-viruses",
+    "name": "Giant Viruses",
+    "epithet": "the ones that broke the rules · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Giant Viruses:VIR:5291d6⟧"
+  },
+  {
+    "slug": "the-virophage",
+    "name": "The Virophage",
+    "epithet": "a virus that infects a virus · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Virophage:VIR:c96e24⟧"
+  },
+  {
+    "slug": "endogenous-retroviruses",
+    "name": "Endogenous Retroviruses",
+    "epithet": "the viruses we are made of · natural",
+    "emergence": "natural",
+    "moniker": "⟦Endogenous Retroviruses:VIR:29b00d⟧"
+  },
+  {
+    "slug": "viral-evolution",
+    "name": "Viral Evolution",
+    "epithet": "selection, in the fastest things on Earth · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Viral Evolution:VIR:88808c⟧"
+  },
+  {
+    "slug": "wendell-stanley",
+    "name": "Wendell Stanley",
+    "epithet": "who crystallized a virus, 1904–1971 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Wendell Stanley:VIR:d7bec8⟧"
+  }
+]

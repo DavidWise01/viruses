@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Capsid",
+  "universe": "VIR · The Capsid (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Capsid:VIR:bd2598⟧",
+  "carbon": "the-capsid.carbon.tiff (TIFF)",
+  "silicon": "the-capsid.silicon.png (PNG)",
+  "seal_sha256": "c389e8a2ee2a43d43bdbe7f9e78c2326c6cb980fe503a11f752c80f70e484da0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

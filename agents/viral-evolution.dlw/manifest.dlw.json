@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Viral Evolution",
+  "universe": "VIR · Viral Evolution (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Viral Evolution:VIR:88808c⟧",
+  "carbon": "viral-evolution.carbon.tiff (TIFF)",
+  "silicon": "viral-evolution.silicon.png (PNG)",
+  "seal_sha256": "4dccb7c3f9c874617b614d117156d9709e65eee8716d72a430eb95ff665fb961",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

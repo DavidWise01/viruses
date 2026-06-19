@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Virophage",
+  "universe": "VIR · The Virophage (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Virophage:VIR:c96e24⟧",
+  "carbon": "the-virophage.carbon.tiff (TIFF)",
+  "silicon": "the-virophage.silicon.png (PNG)",
+  "seal_sha256": "59de1f6908d24465c19dbf73bf76899c695c59136b8cbbfb1da970f05b064ab2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

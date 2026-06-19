@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Hijack",
+  "universe": "VIR · The Hijack (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Hijack:VIR:4c631f⟧",
+  "carbon": "the-hijack.carbon.tiff (TIFF)",
+  "silicon": "the-hijack.silicon.png (PNG)",
+  "seal_sha256": "28585f09bc43859195f521b3c48709453b53961badfdf3a270a3a91d59b2b39d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
