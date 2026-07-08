@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 779
+slug  : viruses
+seal  : d7a2c3f67cfae4ae3933ba2010574419ba4cc0ac47fdf5ed89bf72363dd05804
+prev  : a7a33e4ac545f1c02c67b0633645092c1316b7e58ac9af0bf2b80f53139a6722
+link  : 941607dc01d97336d3d80186c91f66b5469feea0efe5ded0240c0190fa4afe19
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
